@@ -15,6 +15,9 @@ This programming assignment is to implement and compare the following sorting al
 You also have to implement the user interface, to allow user to test your codes for different type of input of different size. Three type of input date will be used : 
 
 (1) already sorted in the descending order.
+
 (2) all the data are the same.
+
 (3) the input data are sorted in ascending order and finally.
+
 (4) random order (in this case, random number generator will be used.
